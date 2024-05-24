@@ -9,4 +9,5 @@ With that said, I did spend a few years on a Developer Advocacy team creating 10
 
 ## Projects - a brief explanation for each project
 Data Science Beginner - Microsoft
-heart failure notebook - 
+
+Heart failure notebook - 
