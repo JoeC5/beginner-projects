@@ -1,6 +1,6 @@
 ## Car Price Prediction
 
-In this beginner Data Science/Machine Learning project I leverage a data set (from Kaggle.com) to build a price (MSRP) predictive linear regression model. The project is broken up into two Jupyter/Python notebooks. The Car Price Predictor – EDA notebook walks through my initial exploratory data analysis of the data set. The Car Price Predictor – Linear Regression Model notebook leverages my EDA findings to build two linear regression models. 
+In this beginner Data Science/Machine Learning project I leverage a data set (from Kaggle.com) to build a price (MSRP) predictive linear regression model. The project is broken up into two Jupyter/Python notebooks. The Car Price Predictor – EDA notebook walks through my initial exploratory data analysis (EDA) of the data set. The Car Price Predictor – Linear Regression Model notebook leverages my EDA findings to build two linear regression models. 
 
 Each notebook includes explanations of the code as well as my thoughts on the results. 
 
