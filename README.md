@@ -1,4 +1,4 @@
-## Learning Data Machine Learning
+## Learning Data Analysis, Data Science, and Machine Learning
 
 In March 2024 I started my Machine Learning journey. As part of this journey, and to help with my learning, I am sharing the projects I have (and currently) worked on with the goal of hopefully helping others as they learn. 
 This repository will include projects for Python,  Data Analysis, Data Science, Machine Learning, and Artificial Intelligence. In most cases I will be using Juyper notebooks. Within each project I aim to include text explaining the code and reasoning behind the code I use. 
