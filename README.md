@@ -7,7 +7,3 @@ A bit about me. I spent the first half on my professional career in financial se
 With that said, I did spend a few years in a technical role on a Developer Advocacy team creating 100 and 200 level technical content for customers - content was shared through speaking engagements and "how to" articles posted on LikedIn
 
 
-## Projects - a brief explanation for each project
-Data Science Beginner - Microsoft
-
-Heart failure notebook - 
